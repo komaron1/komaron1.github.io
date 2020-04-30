@@ -1,0 +1,49 @@
+img {
+  width: 1200px;
+  text-align: center;
+  margin-left: 160px;
+  margin-top: 0px;
+}
+main {
+  margin-left: 430px;
+}
+.imagetext {
+  position: relative;
+  top: -169px;
+  font-family: 'Abril Fatface';
+  color: #222;
+}
+h2 {
+  position: relative;
+  top: -74px;
+  font-size: 66px;
+}
+.maintext {
+  margin-left: -40px;
+  margin-top: -210px;
+  width: 719px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  line-height: 1.7;
+}
+ul {
+ margin-left: 30px;
+ list-style-type: square;
+}
+.quotation {
+  font-family: 'Abril Fatface';
+  color: white;
+  font-size: 42px;
+  background-color: #444;
+  padding: 40px 40px 40px 40px;
+}
+.quotationmark {
+  font-family: 'Abril Fatface';
+  color: white;
+  font-size: 80px;
+  background-color: #444;
+  *padding-bottom: -40px;
+}
+h3 {
+  
+}
